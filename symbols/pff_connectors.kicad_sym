@@ -9,7 +9,7 @@
     (property "Footprint" "" (at -2.54 8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at -2.54 8.89 0)
+    (property "Datasheet" "https://www.radiocontrolli.com/media/1327_ebbd998f731c6483c4ee12d998cd3b2991fd4e84.pdf/o/rc-cc1101-spi-smt-434.pdf" (at -2.54 8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "RC-CC1101-SPI-SMT_0_1"

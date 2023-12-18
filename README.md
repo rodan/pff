@@ -26,4 +26,6 @@ RC-CC1101-SPI-SMT | up to 1GHz transceiver break-out board | RadioControlli
 pff_discreet_semi
 
 name | description | manufacturer
+--- | --- | ---
 NTE461 | 2ch N-channel JFET | NTE Electronics
+

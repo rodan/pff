@@ -20,6 +20,10 @@ pff_connectors
 name | description | manufacturer
 --- | --- | ---
 boosterpack | 2x2x10 boosterpack | Texas Instruments
+S36B-ZROK-2A | JST ZRO 36pin connector - key code A | JST
+S36B-ZROK-2B | JST ZRO 36pin connector - key code B | JST
+S48B-ZROK-2A | JST ZRO 48pin connector - key code A | JST
+S48B-ZROK-2B | JST ZRO 48pin connector - key code B | JST
 RC-CC1101-SPI-SMT | up to 1GHz transceiver break-out board | RadioControlli
 
 
